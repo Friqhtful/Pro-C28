@@ -1,1 +1,1 @@
-# Pro-C28
+# Project Template 26
